@@ -1,5 +1,4 @@
 #include <atomic>
-#include <chrono>
 #include <iostream>
 #include <folly/init/Init.h>
 #include <folly/coro/AsyncScope.h>
